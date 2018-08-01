@@ -1,0 +1,5 @@
+com/passionhunt/ai/restapi/resources/UserResource.class
+com/passionhunt/ai/restapi/config/SwaggerConfig.class
+com/passionhunt/ai/restapi/resources/model/User.class
+com/passionhunt/ai/restapi/RestapiApplication.class
+com/passionhunt/ai/restapi/resources/HelloResource.class
